@@ -220,7 +220,7 @@ private:
 
 int main()
 {
-	sf::RenderWindow window(sf::VideoMode(800, 800), "chess");
+	sf::RenderWindow window(sf::VideoMode(800, 800), "2048");
 	Grid grid(&window);
 
 
